@@ -10,10 +10,10 @@ The project involves creation of a webapp using python scripts, and demostrating
 
 ### Dashboard Snippets
 
-![Histogram](C:\Users\Ishita\Downloads\histogram.png)
+![Histogram](https://github.com/singhishita/Interactive-Dashboards-With-Streamlit/blob/master/histogram.png)
 
-![Pie Chart](C:\Users\Ishita\Downloads\piechart.png)
+![Pie Chart](https://github.com/singhishita/Interactive-Dashboards-With-Streamlit/blob/master/piechart.png)
 
-![Tweets Location](C:\Users\Ishita\Downloads\maptweets.png)
+![Tweets Location](https://github.com/singhishita/Interactive-Dashboards-With-Streamlit/blob/master/maptweets.png)
 
-![Tweet Sentiment Breakdown](C:\Users\Ishita\Downloads\tweetbreakdown.png)
+![Tweet Sentiment Breakdown](https://github.com/singhishita/Interactive-Dashboards-With-Streamlit/blob/master/tweetbreakdown.png)
